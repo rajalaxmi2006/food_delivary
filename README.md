@@ -5,7 +5,7 @@ A modern and responsive **Food Delivery Website UI** built using HTML and CSS. T
 ---
 
 ## 🚀 Live Demo
-👉 https://your-username.github.io/food-delivery/
+👉 https://github.com/rajalaxmi2006/food_delivary/
 
 ---
 
